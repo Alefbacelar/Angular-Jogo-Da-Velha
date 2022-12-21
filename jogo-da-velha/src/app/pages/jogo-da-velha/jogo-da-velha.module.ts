@@ -8,10 +8,7 @@ import { JogoDaVelhaRoutingModule } from './jogo-da-velha-routing.module';
 
 @NgModule({
   declarations: [
-    JogoDaVelhaComponent
-  ],
-  exports:[
-    JogoDaVelhaComponent
+
   ],
   imports: [
     CommonModule,
